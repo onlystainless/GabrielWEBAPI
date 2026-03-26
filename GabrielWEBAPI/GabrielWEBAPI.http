@@ -1,0 +1,6 @@
+@GabrielWEBAPI_HostAddress = http://localhost:5027
+
+GET {{GabrielWEBAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
